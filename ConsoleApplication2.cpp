@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
+// Function for swapping places of two elements
 void swap(int arr[], int pos1, int pos2) 
 {
 	int temp = arr[pos1];
@@ -8,6 +9,7 @@ void swap(int arr[], int pos1, int pos2)
 	arr[pos2] = temp;
 }
 
+// One-dimensional array quick sort function
 void quickSort(int arr[], int low, int high) 
 {
 	if (low < high) 
