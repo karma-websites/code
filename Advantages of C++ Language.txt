@@ -1,0 +1,5 @@
+C++ has the following 2 features that make it a preferred choice in most of the applications:
+
+Speed: C++ is faster than most other programming languages and it provides excellent concurrency support. This makes it useful in those areas where performance is quite critical and the latency required is very low. Such requirements occur all the time in high-load servers such as web servers, application servers, database servers, etc. C++ plays a key role in such servers.
+
+Closer to hardware: C++ is closer to hardware than most other programming languages like Python, etc. This makes it useful in those areas where the software is closely coupled with hardware and low-level support is required at the software level.
